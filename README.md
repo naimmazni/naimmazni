@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Naim</h1>
+<h1 align="center">Hi 👋, I'm Naim</h1>
 <h3 align="center">Bachelor of Software Engineering (Hons.) student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matsantai&label=Profile%20views&color=0e75b6&style=flat" alt="matsantai" /> </p>

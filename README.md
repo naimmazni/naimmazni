@@ -11,7 +11,6 @@ Passionate about building web and mobile applications, and exploring the world o
 
 - 🌱 Currently learning **Mobile App, Web App, and AI**
 - 💬 Ask me about **anything tech-related**
-- 🎓 Studying at [Your University Name], expected graduation: [Year]
 - 📫 Reach me at: [naimmazni@gmail.com](mailto:naimmazni@gmail.com)
 
 ---
@@ -72,12 +71,6 @@ Passionate about building web and mobile applications, and exploring the world o
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naim-mazni-3555a0246/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/matsantai)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naimmazni@gmail.com)
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).

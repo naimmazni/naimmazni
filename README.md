@@ -1,4 +1,4 @@
-# Hi 👋, I'm Naim
+<h1 align="center">Hi 👋, I'm Naim</h1>
 
 **Bachelor of Software Engineering (Hons.) student**  
 Passionate about building web and mobile applications, and exploring the world of AI.

@@ -21,7 +21,7 @@ Passionate about building web and mobile applications, and exploring the world o
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
 
 <br/>![](https://github-readme-stats.vercel.app/api?username=MatSantai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)

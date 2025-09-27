@@ -14,6 +14,12 @@ Passionate about building web and mobile applications, and exploring the world o
 - 📫 Reach me at: [naimmazni@gmail.com](mailto:naimmazni@gmail.com)
 
 ---
+<div align="center">
+  
+![snake gif](https://github.com/MatSantai/MatSantai/blob/output/github-snake-dark.svg)
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -71,6 +77,6 @@ Passionate about building web and mobile applications, and exploring the world o
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naim-mazni-3555a0246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naim-mazni/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/matsantai)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naimmazni@gmail.com)

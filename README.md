@@ -21,6 +21,16 @@ Passionate about building web and mobile applications, and exploring the world o
 
 ---
 
+## 📊 GitHub Stats:
+<div align="center">
+
+<br/>![](https://github-readme-stats.vercel.app/api?username=MatSantai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MatSantai&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatSantai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages

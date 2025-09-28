@@ -3,8 +3,6 @@
 **Bachelor of Software Engineering (Hons.) student**  
 Passionate about building web and mobile applications, and exploring the world of AI.
 
-![Profile Views](https://komarev.com/ghpvc/?username=matsantai&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ## 🚀 About Me
@@ -14,9 +12,14 @@ Passionate about building web and mobile applications, and exploring the world o
 - 📫 Reach me at: [naimmazni@gmail.com](mailto:naimmazni@gmail.com)
 
 ---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=matsantai&label=Profile%20views&color=0e75b6&style=flat)
+</div>
 <div align="center">
   
-![snake gif](https://github.com/MatSantai/MatSantai/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/MatSantai/MatSantai/blob/output/github-snake-dark.svg)
 </div>
 
 ---

@@ -16,6 +16,7 @@ Passionate about building web and mobile applications, and exploring the world o
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=matsantai&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/MatSantai?label=Followers&style=social)
 </div>
 <div align="center">
   

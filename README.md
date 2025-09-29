@@ -15,12 +15,12 @@ Passionate about building web and mobile applications, and exploring the world o
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=matsantai&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/MatSantai?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=naimmazni&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/naimmazni?label=Followers&style=social)
 </div>
 <div align="center">
   
-  ![snake gif](https://github.com/MatSantai/MatSantai/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/naimmazni/naimmazni/blob/output/github-snake-dark.svg)
 </div>
 
 ---
@@ -28,9 +28,9 @@ Passionate about building web and mobile applications, and exploring the world o
 ## 📊 GitHub Stats
 <div align="center">
 
-<br/>![](https://github-readme-stats.vercel.app/api?username=MatSantai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=MatSantai&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatSantai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>![](https://github-readme-stats.vercel.app/api?username=naimmazni&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=naimmazni&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naimmazni&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ---
@@ -67,22 +67,22 @@ Passionate about building web and mobile applications, and exploring the world o
 
 ## 📂 Projects
 
-- **[sigma_ecommerce_web](https://github.com/MatSantai/sigma_ecommerce_web)**  
+- **[sigma_ecommerce_web](https://github.com/naimmazni/sigma_ecommerce_web)**  
   A modern e-commerce platform built with Laravel 12, featuring user authentication, product management, shopping cart, order tracking, and admin dashboard with responsive design.
 
-- **[password-generator](https://github.com/MatSantai/password-generator)**  
+- **[password-generator](https://github.com/naimmazni/password-generator)**  
   Simple password generator website using HTML, CSS, and JS.
 
-- **[passenger-counter](https://github.com/MatSantai/passenger-counter)**  
+- **[passenger-counter](https://github.com/naimmazni/passenger-counter)**  
   A simple website that helps people calculate the number of people entering and exiting a bus.
 
-- **[lead-tracker](https://github.com/MatSantai/lead-tracker)**  
+- **[lead-tracker](https://github.com/naimmazni/lead-tracker)**  
   Simple extension for saving links when visiting any website.
 
-- **[bus-tracker](https://github.com/MatSantai/bus-tracker)**  
+- **[bus-tracker](https://github.com/naimmazni/bus-tracker)**  
   A website for tracking buses in university. Frontend using Tailwind, backend using Laravel, and database using MySQL. _(Private repo)_
 
-- **[SSE3308-224234-LAB2](https://github.com/MatSantai/SSE3308-224234-LAB2)**  
+- **[SSE3308-224234-LAB2](https://github.com/naimmazni/SSE3308-224234-LAB2)**  
   HTML lab assignment.
 
 - _(See more on my GitHub profile!)_
@@ -92,5 +92,5 @@ Passionate about building web and mobile applications, and exploring the world o
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naim-mazni/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/matsantai)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/naimmazni)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naimmazni@gmail.com)

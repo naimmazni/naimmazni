@@ -9,6 +9,7 @@ Passionate about building web and mobile applications, and exploring the world o
 
 - 🌱 Currently learning **Mobile App, Web App, and AI**
 - 💬 Ask me about **anything tech-related**
+- 🌐 Check out my portfolio: [naimmazni.vercel.app](https://naimmazni.vercel.app)
 - 📫 Reach me at: [naimmazni@gmail.com](mailto:naimmazni@gmail.com)
 
 ---
